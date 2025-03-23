@@ -1,4 +1,4 @@
-# IPL-ANALYSIS
+
 # 🏏 IPL Match Analysis - Exploratory Data Analysis (EDA) 📊  
 
 ## 📌 Project Overview  
